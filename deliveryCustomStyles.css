@@ -37,3 +37,8 @@ nav {
     height: 700px;
     border: solid black;
 }
+
+.info1Images {
+    max-width: 40%;
+    height: auto;
+}
