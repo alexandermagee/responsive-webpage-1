@@ -31,6 +31,13 @@ nav {
     background-attachment: fixed;
 }
 
+.commonButton {
+    font-size: 0.8em;
+    background-color: rgb(226, 145, 113);
+    border: 1px solid rgba(3, 24, 1, 0.781);
+    border-radius: 0px;
+}
+
 .info1 {
     min-height: 900px;
     max-height: max-content;
@@ -53,4 +60,33 @@ nav {
     height: auto;
 }
 
+.infoCard {
+    border: none;
+}
 
+.infoCardIcon {
+    width: 10vw;
+    height: auto;
+}
+
+.infoCardText {
+    font-size: 0.8em;
+    margin: 0 auto;
+}
+
+.infoCardTitle {
+    font-size: 0.9em;
+}
+
+.menuItemImage {
+    width: 15vw;
+}
+
+.menuItems {
+    background-color: rgb(221, 238, 236);
+}
+
+.menuItemHolders {
+    background-color: rgb(221, 238, 236);
+    border: none;
+}
