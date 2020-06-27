@@ -79,7 +79,8 @@ nav {
 }
 
 .menuItemImage {
-    width: 15vw;
+    max-width: 40%;
+    height: auto;
 }
 
 .menuItems {
@@ -89,4 +90,33 @@ nav {
 .menuItemHolders {
     background-color: rgb(221, 238, 236);
     border: none;
+}
+
+.descriptionText {
+    padding: 0% 12.5%;
+}
+
+.descriptionImage {
+    max-width: 40%;
+    height: auto;
+    padding-top: 10vh;
+}
+
+.bottomBanner {
+    background: rgb(1, 44, 1);
+    color: white;
+    margin-top: 17.5vh
+}
+
+.contactInfo {
+    border-top: 1px solid rgb(1, 44, 1);
+}
+
+.footer {
+    font-size: 0.6em;
+    line-height: 0.2;
+}
+
+.iconCredits {
+    font-size: 0.4em;
 }
