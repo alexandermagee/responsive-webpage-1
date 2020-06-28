@@ -1,5 +1,9 @@
-body {
-    margin: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
+.mainContainer {
+    color: #093B31;
+    font-family: 'Questrial', sans-serif;
 }
 
 nav {
@@ -11,6 +15,12 @@ nav {
 .socialMediaIcon {
     width: 20px;
     height: auto;
+}
+
+.orderOnline {
+    color: white;
+    background-color: rgb(3, 46, 3);
+    border-radius: 0px;
 }
 
 .topDisplay {
